@@ -17,6 +17,8 @@
 + Zongyan Han, Zhenyong Fu, Jian Yang. Learning the Redundancy-free Features for Generalized Zero-Shot Object Recognition. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Learning_the_Redundancy-Free_Features_for_Generalized_Zero-Shot_Object_Recognition_CVPR_2020_paper.pdf)
 + Rohit Keshari, Richa Singh, Mayank Vatsa. Generalized Zero-Shot Learning Via Over-Complete Distribution. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Keshari_Generalized_Zero-Shot_Learning_via_Over-Complete_Distribution_CVPR_2020_paper.pdf)
 
+#### ICCV 2019
++ **CIZSL**: Mohamed Elhoseiny, Mohamed Elfeki. Creativity Inspired Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.pdf) [[arXiv]](https://arxiv.org/abs/1904.01109) [[Code]](https://github.com/mhelhoseiny/CIZSL)
 
 ## Datasets
 - 
