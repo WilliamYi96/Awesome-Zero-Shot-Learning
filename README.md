@@ -8,9 +8,11 @@ Note: This list may contain understanding bias and personal preference.
 
 ### Papers
 #### ECCV 2020
-+ **f-VAEGAN**
-+ **LsrGAN**
-+ 
++ **f-VAEGAN**: Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification. Sanath Narayan* , Akshita Gupta* , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. [[arXiv]](https://arxiv.org/abs/2003.07833) [[Code]](https://github.com/akshitac8/tfvaegan)
++ **LsrGAN**: Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning. Maunil R Vyas, Hemanth Venkateswara, Sethuraman Panchanathan. [[arXiv]](https://arxiv.org/abs/2007.09549)
+            
+            Note: This is a paper based on GAZSL and the loss design is easy to follow. However, this is for transductive zero shot learning, which uses image features of unseen classes at training step.
++ TBD
 
 #### CVPR 2020
 + **Hyperbolic-ZSL**: Shaoteng Liu, Jingjing Chen, Liangming Pan, Chong-Wah Ngo, Tat-Seng Chua, Yu-Gang Jiang. Hyperbolic Visual Embedding Learning for Zero-Shot Recognition. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf)[[Code]](https://github.com/ShaoTengLiu/Hyperbolic_ZSL)
