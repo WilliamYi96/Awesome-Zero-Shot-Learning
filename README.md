@@ -46,7 +46,7 @@ Note: This list may contain understanding bias and personal preference.
 #### PAMI 2018
 + **GBU**: Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly". [[arXiv]](https://arxiv.org/abs/1707.00600) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)
 
-      Note: This paper maybe one of the most influential paper in zero-shot learning.
+      Note: This paper maybe one of the most influential papers in zero-shot learning.
 
 ## Datasets
-- 
++ TBD
