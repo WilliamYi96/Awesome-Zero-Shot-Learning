@@ -41,7 +41,7 @@ Note: This list may contain understanding bias and personal preference.
 #### CVPR 2018
 + **GAZSL**: Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. "A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts". [[arXiv]](https://arxiv.org/abs/1712.01381) [[Code]](https://github.com/EthanZhu90/ZSL_GAN)
 
-      Note: This paper is one of the earlierst works working on textual-based CUBird and NABird. And the proposed two heads discriminator and the pipeline is widely accepted.
+      Note: This paper is one of the earlierst works working on textual-based CUBird and NABird. And the proposed two heads discriminator and the pipeline are widely accepted.
 
 #### PAMI 2018
 + **GBU**: Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly". [[arXiv]](https://arxiv.org/abs/1707.00600) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)
