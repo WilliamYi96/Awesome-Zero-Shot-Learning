@@ -24,6 +24,8 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 #### ICCV 2019
 + **CIZSL**: Mohamed Elhoseiny, Mohamed Elfeki. Creativity Inspired Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.pdf) [[arXiv]](https://arxiv.org/abs/1904.01109) [[Code]](https://github.com/mhelhoseiny/CIZSL)
 
+      Very interesting paper on designing a creative loss which can help properly formulate deviation from generating features similar to existing classes while balancing the desirable transfer learning signal.
+
 #### CVPR 2019
 + **DGP**: Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, and Eric P. Xing. Rethinking Knowledge Graph Propagation for Zero-Shot Learning. [[arXiv]](https://arxiv.org/abs/1805.11724) [[Code]](https://github.com/cyvius96/DGP)
 
