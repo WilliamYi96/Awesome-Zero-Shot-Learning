@@ -1,4 +1,5 @@
 # Awesome-Zero-Shot-Learning
+Selected papers I've read in the field of zero shot learning. Not a complete list of all accepted papers.
 ## Table of Contents
 + [Papers](#Papers)
 + [Datasets](#Datasets)
