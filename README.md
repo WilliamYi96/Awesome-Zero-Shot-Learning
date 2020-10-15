@@ -11,7 +11,7 @@ Note: This list may contain understanding bias and personal preference.
 + **f-VAEGAN**: Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification. Sanath Narayan* , Akshita Gupta* , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. [[arXiv]](https://arxiv.org/abs/2003.07833) [[Code]](https://github.com/akshitac8/tfvaegan)
 + **LsrGAN**: Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning. Maunil R Vyas, Hemanth Venkateswara, Sethuraman Panchanathan. [[arXiv]](https://arxiv.org/abs/2007.09549)
             
-      Note: This is a paper based on GAZSL and the loss design is easy to follow. However, this is for transductive zero shot learning, which uses image features of unseen classes at training step.
+      Note: This is a paper based on GAZSL and the loss design is interesting and easy to follow. However, this is for transductive zero shot learning, which uses image features of unseen classes at training step.
 + TBD
 
 #### CVPR 2020
