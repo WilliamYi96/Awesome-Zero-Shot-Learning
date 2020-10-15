@@ -5,6 +5,11 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + [Datasets](#Datasets)
 
 ### Papers
+#### ECCV 2020
++ **f-VAEGAN**
++ **LsrGAN**
++ 
+
 #### CVPR 2020
 + **Hyperbolic-ZSL**: Shaoteng Liu, Jingjing Chen, Liangming Pan, Chong-Wah Ngo, Tat-Seng Chua, Yu-Gang Jiang. Hyperbolic Visual Embedding Learning for Zero-Shot Recognition. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf)[[Code]](https://github.com/ShaoTengLiu/Hyperbolic_ZSL)
 
