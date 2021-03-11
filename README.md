@@ -24,7 +24,7 @@ Note: This list may contain understanding bias and personal preference. All that
 + **LsrGAN**: Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning. Maunil R Vyas, Hemanth Venkateswara, Sethuraman Panchanathan. [[arXiv]](https://arxiv.org/abs/2007.09549) [[Code]](https://github.com/Maunil/LsrGAN)
             
       Note: This is a paper based on GAZSL and the loss design is interesting and easy to follow. However, this is for transductive zero shot learning, which uses image features of unseen classes at training step.
-+ A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning - [CODE]- Xingyu Chen, Xuguang Lan, Fuchun Sun, Nanning Zheng. [[paper]](https://arxiv.org/abs/2008.04872) [[code]](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning)      
++ **OOD**: A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning. Xingyu Chen, Xuguang Lan, Fuchun Sun, Nanning Zheng. [[paper]](https://arxiv.org/abs/2008.04872) [[code]](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning)      
 + **RGEN**: Region Graph Embedding Network for Zero-shot Learning - Guo-Sen Xie, Li Liu, Fan Zhu, Fang Zhao, Zheng Zhang, Yazhou Yao, Jie Qin, Ling Shao. [[No code-210311]]()
 
 #### CVPR 2020
