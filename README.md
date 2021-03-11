@@ -36,20 +36,17 @@ Note: This list may contain understanding bias and personal preference. All that
 + **DAZLE**: Dat Huynh, Ehsan Elhamifar. Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.pdf) [[code]](https://github.com/hbdat/cvpr20_DAZLE)
 + **LESA**: Dat Huynh, Ehsan Elhamifar. A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf) [[code]](https://github.com/hbdat/cvpr20_DAZLE)
 + **RFF-GZSL**: Learning the Redundancy-Free Features for Generalized Zero-Shot Object Recognition. Zongyan Han, Zhenyong Fu, Jian Yang. [[No code-210311]]()
-+ **SDGN**: Jiamin Wu, Tianzhu Zhang, Zheng-Jun Zha, Jiebo Luo, Yongdong Zhang, Feng Wu. Self-supervised Domain-aware Generative Network for Generalized Zero-shot Learning. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Self-Supervised_Domain-Aware_Generative_Network_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf) [[No code - 210311]]
-+ Yunlong Yu, Zhong Ji, Jungong Han, Zhongfei Zhang. Episode-based Prototype Generating Network for Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Episode-Based_Prototype_Generating_Network_for_Zero-Shot_Learning_CVPR_2020_paper.pdf) [[code]](https://github.com/yunlongyu/EPGN)
++ **SDGN**: Jiamin Wu, Tianzhu Zhang, Zheng-Jun Zha, Jiebo Luo, Yongdong Zhang, Feng Wu. Self-supervised Domain-aware Generative Network for Generalized Zero-shot Learning. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Self-Supervised_Domain-Aware_Generative_Network_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf) [[No code - 210311]]()
++ **E-PGN**: Yunlong Yu, Zhong Ji, Jungong Han, Zhongfei Zhang. Episode-based Prototype Generating Network for Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Episode-Based_Prototype_Generating_Network_for_Zero-Shot_Learning_CVPR_2020_paper.pdf) [[code]](https://github.com/yunlongyu/EPGN)
 
        Note: Code issue - "nan" loss and "0.0" accurracy, [[issue#5]](https://github.com/yunlongyu/EPGN/issues/5).
 
 + Rohit Keshari, Richa Singh, Mayank Vatsa. Generalized Zero-Shot Learning via Over-Complete Distribution. [[No code - 210311]]
+
++ Below partial related:
 + Suchen Wang, Kim-Hui Yap, Junsong Yuan, Yap-Peng Tan. Discovering Human Interactions with Novel Objects via Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Discovering_Human_Interactions_With_Novel_Objects_via_Zero-Shot_Learning_CVPR_2020_paper.pdf)
-
-
-+ Rohit Keshari, Richa Singh, Mayank Vatsa. Generalized Zero-Shot Learning Via Over-Complete Distribution. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Keshari_Generalized_Zero-Shot_Learning_via_Over-Complete_Distribution_CVPR_2020_paper.pdf)
-
 + Pengkai Zhu, Hanxiao Wang, Venkatesh Sligrama. Don't Even Look Once: Synthesizing Features for Zero-Shot Detection. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Dont_Even_Look_Once_Synthesizing_Features_for_Zero-Shot_Detection_CVPR_2020_paper.pdf)
-+ Zongyan Han, Zhenyong Fu, Jian Yang. Learning the Redundancy-free Features for Generalized Zero-Shot Object Recognition. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Learning_the_Redundancy-Free_Features_for_Generalized_Zero-Shot_Object_Recognition_CVPR_2020_paper.pdf)
-+ Rohit Keshari, Richa Singh, Mayank Vatsa. Generalized Zero-Shot Learning Via Over-Complete Distribution. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Keshari_Generalized_Zero-Shot_Learning_via_Over-Complete_Distribution_CVPR_2020_paper.pdf)
+
 
 #### ICCV 2019
 + **CIZSL**: Mohamed Elhoseiny, Mohamed Elfeki. Creativity Inspired Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.pdf) [[arXiv]](https://arxiv.org/abs/1904.01109) [[Code]](https://github.com/mhelhoseiny/CIZSL)
