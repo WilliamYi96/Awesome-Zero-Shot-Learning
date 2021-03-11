@@ -44,7 +44,7 @@ Note: This list may contain understanding bias and personal preference. All that
 
        Note: Code issue - "nan" loss and "0.0" accurracy, [[issue#5]](https://github.com/yunlongyu/EPGN/issues/5).
 
-+ Rohit Keshari, Richa Singh, Mayank Vatsa. Generalized Zero-Shot Learning via Over-Complete Distribution. [[No code - 210311]]
++ Rohit Keshari, Richa Singh, Mayank Vatsa. Generalized Zero-Shot Learning via Over-Complete Distribution. [[No code - 210311]]()
 
 + Below partial related:
 + Suchen Wang, Kim-Hui Yap, Junsong Yuan, Yap-Peng Tan. Discovering Human Interactions with Novel Objects via Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Discovering_Human_Interactions_With_Novel_Objects_via_Zero-Shot_Learning_CVPR_2020_paper.pdf)
