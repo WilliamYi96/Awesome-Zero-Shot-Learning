@@ -8,7 +8,12 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 
 ### Papers
 #### arXiv
++ **GRaWD**: Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation. Mohamed Elhoseiny, Divyansh Jha, Kai Yi, Ivan Skorokhodov. [[https://arxiv.org/abs/2104.09757]]
++ **DVGR**: Dynamic VAEs with Generative Replay for Continual Zero-shot Learning. Subhankar Ghosh. [[paper]](https://arxiv.org/abs/2104.12468) [[code]](https://github.com/DVGR-CZSL/DVGR-CZSL)
 + **CIZSL++**: CIZSL++: Creativity Inspired Generative Zero-Shot Learning. Mohamed Elhoseiny, Kai Yi, Mohamed Elfeki. [[paper]](https://arxiv.org/pdf/2101.00173.pdf) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2)
+
+#### CVPR 2021
++ **CE-GZSL**: Contrastive Embedding for Generalized Zero-Shot Learning. Zongyan Han, Zhenyong Fu, Shuo Chen, Jian Yang. [[paper]](https://arxiv.org/abs/2103.16173)
 
 #### ICLR 2021
 + **CN-ZSL**: Class Normalization for Zero Shot Learning. Ivan Skorokhodov, Mohamed Elhoseiny. [[paper]](https://openreview.net/forum?id=7pgFL2Dkyyy)  [[Code]](https://github.com/universome/nm-zsl)
