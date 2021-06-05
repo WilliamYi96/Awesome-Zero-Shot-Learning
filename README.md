@@ -4,7 +4,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 **Note**: *This list may contain understanding bias and personal preference. All that papers without available code will not provide a link to it.*
 ## Table of Contents
 + [Papers](#Papers)
-+ [Datasets](#Datasets)
++ [Datasets](#Datasets)                                 
 
 ### Papers
 #### arXiv
