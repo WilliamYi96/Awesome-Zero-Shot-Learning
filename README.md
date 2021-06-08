@@ -6,7 +6,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + [Papers](#Papers)
 + [Datasets](#Datasets)                                 
 
-### Papers
+### Papers                                      
 #### arXiv
 + **GRaWD**: Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation. Mohamed Elhoseiny, Divyansh Jha, Kai Yi, Ivan Skorokhodov. [[paper]](https://arxiv.org/abs/2104.09757)
 + **DVGR**: Dynamic VAEs with Generative Replay for Continual Zero-shot Learning. Subhankar Ghosh. [[paper]](https://arxiv.org/abs/2104.12468) [[code]](https://github.com/DVGR-CZSL/DVGR-CZSL)
