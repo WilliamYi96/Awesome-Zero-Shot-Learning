@@ -11,6 +11,9 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + **GRaWD**: Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation. Mohamed Elhoseiny, Divyansh Jha, Kai Yi, Ivan Skorokhodov. [[paper]](https://arxiv.org/abs/2104.09757) [[code]](https://github.com/Vision-CAIR/GRaWD)
 + **CIZSL++**: CIZSL++: Creativity Inspired Generative Zero-Shot Learning. Mohamed Elhoseiny, Kai Yi, Mohamed Elfeki. [[paper]](https://arxiv.org/pdf/2101.00173.pdf) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2)
 
+#### ICCV 2021
++ **FREE**: Feature Refinement for Generalized Zero-Shot Learning. Shiming Chen, Wenjie Wang, Beihao Xia, Qinmu Peng, Xinge You, Feng Zheng, Ling Shao. [[paper]](https://arxiv.org/abs/2107.13807) [[code]](https://github.com/shiming-chen/FREE)
++ Semantic Disentangling Generalized Zero-Shot Learning. Zhi Chen, Ruihong Qiu, Sen Wang, Zi Huang, Jingjing Li, Zheng Zhang. [[paper]](https://arxiv.org/abs/2101.07978) [[no code - 210805]]
 #### CVPR 2021
 + **GEM-ZSL**: Goal-Oriented Gaze Estimation for Zero-Shot Learning. Yang Liu, Lei Zhou, Xiao Bai, Yifei Huang, Lin Gu, Jun Zhou, Tatsuya Harada. [[paper]](https://arxiv.org/abs/2103.03433) [[code]](https://github.com/osierboy/GEM-ZSL)
 + **CE-GZSL**: Contrastive Embedding for Generalized Zero-Shot Learning. Zongyan Han, Zhenyong Fu, Shuo Chen, Jian Yang. [[paper]](https://arxiv.org/abs/2103.16173) [[code]](https://github.com/Hanzy1996/CE-GZSL)
