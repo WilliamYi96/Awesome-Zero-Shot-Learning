@@ -28,9 +28,9 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
    
        Note: In the paper, the authors investigated basic normalization strategies and proposed the novel class normalization. Besides, they introduced a more general continual zero-shot learning setting. But generally, there is a lot of space to improve on that.
    
-+ **IPN**: Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang. Isometric Propagation Network for Generalized Zero-shot Learning. [[paper]](https://openreview.net/pdf?id=-mWcQVLPSPy)  [[No code-210311]]()
-+ Yu-Ying Chou, Hsuan-Tien Lin, Tyng-Luh Liu. Adaptive and Generative Zero-Shot Learning. [[paper]](https://openreview.net/forum?id=ahAUv8TI2Mz) [[No code-210311]]()
-+ Yunhao Ge, Sami Abu-El-Haija, Gan Xin, Laurent Itti. Zero-shot Synthesis with Group-Supervised Learning. [[paper]](https://openreview.net/forum?id=8wqCDnBmnrT)  [[No code-210311]]()
++ **IPN**: Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang. Isometric Propagation Network for Generalized Zero-shot Learning. [[No code - 210805]]()
++ Yu-Ying Chou, Hsuan-Tien Lin, Tyng-Luh Liu. Adaptive and Generative Zero-Shot Learning. [[No code - 210805]]()
++ Yunhao Ge, Sami Abu-El-Haija, Gan Xin, Laurent Itti. Zero-shot Synthesis with Group-Supervised Learning. [[No code - 210805]]()
 #### NeurIPS 2020
 + **Composer**: Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition. D.~Huynh and E.~Elhamifar. [[paper]](https://hbdat.github.io/pubs/neurips20_CompositionZSL_final.pdf) [[code]](https://github.com/hbdat/neurIPS20_CompositionZSL)
 + **APN**: Attribute Prototype Network for Zero-Shot Learning. Wenjia Xu, Yongqin Xian, Jiuniu Wang, Bernt Schiele, Zeynep Akata. [[empty github repo, no further consideration on this paper-210311]]()
