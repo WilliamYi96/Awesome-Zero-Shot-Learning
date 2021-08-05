@@ -20,7 +20,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + **CGE**: Learning Graph Embeddings for Compositional Zero-Shot Learning. Muhammad Ferjad Naeem, Yongqin Xian, Federico Tombari, Zeynep Akata. [[paper]](https://arxiv.org/abs/2102.01987) [[code]](https://github.com/ExplainableML/czsl)
 + **CompCos**: Open World Compositional Zero-Shot Learning. Massimiliano Mancini, Muhammad Ferjad Naeem, Yongqin Xian, Zeynep Akata [[paper]](https://arxiv.org/abs/2101.12609) [[code]](https://github.com/ExplainableML/czsl)
 + **GCM-CF**: Counterfactual Zero-Shot and Open-Set Visual Recognition. Zhongqi Yue, Tan Wang, Qianru Sun, Xian-Sheng Hua, Hanwang Zhang [[paper]](https://arxiv.org/abs/2103.00887) [[code]](https://github.com/yue-zhongqi/gcm-cf)
-+ **STHS**: Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning. Liu Bo, Qiulei Dong, Zhanyi Hu. [[no code - 210805]]()
++ **STHS**: Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning. Liu Bo, Qiulei Dong, Zhanyi Hu. [[empty github repo - 210805]]()
 
 #### ICLR 2021
 + **CN-ZSL**: Class Normalization for Zero Shot Learning. Ivan Skorokhodov, Mohamed Elhoseiny. [[paper]](https://openreview.net/forum?id=7pgFL2Dkyyy)  [[Code]](https://github.com/universome/nm-zsl)
