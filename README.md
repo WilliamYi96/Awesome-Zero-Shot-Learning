@@ -13,14 +13,14 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 
 #### ICCV 2021
 + **FREE**: Feature Refinement for Generalized Zero-Shot Learning. Shiming Chen, Wenjie Wang, Beihao Xia, Qinmu Peng, Xinge You, Feng Zheng, Ling Shao. [[paper]](https://arxiv.org/abs/2107.13807) [[code]](https://github.com/shiming-chen/FREE)
-+ Semantic Disentangling Generalized Zero-Shot Learning. Zhi Chen, Ruihong Qiu, Sen Wang, Zi Huang, Jingjing Li, Zheng Zhang. [[paper]](https://arxiv.org/abs/2101.07978) [[no code - 210805]]
++ Semantic Disentangling Generalized Zero-Shot Learning. Zhi Chen, Ruihong Qiu, Sen Wang, Zi Huang, Jingjing Li, Zheng Zhang. [[paper]](https://arxiv.org/abs/2101.07978) [[No code - 210805]]
 #### CVPR 2021
 + **GEM-ZSL**: Goal-Oriented Gaze Estimation for Zero-Shot Learning. Yang Liu, Lei Zhou, Xiao Bai, Yifei Huang, Lin Gu, Jun Zhou, Tatsuya Harada. [[paper]](https://arxiv.org/abs/2103.03433) [[code]](https://github.com/osierboy/GEM-ZSL)
 + **CE-GZSL**: Contrastive Embedding for Generalized Zero-Shot Learning. Zongyan Han, Zhenyong Fu, Shuo Chen, Jian Yang. [[paper]](https://arxiv.org/abs/2103.16173) [[code]](https://github.com/Hanzy1996/CE-GZSL)
 + **CGE**: Learning Graph Embeddings for Compositional Zero-Shot Learning. Muhammad Ferjad Naeem, Yongqin Xian, Federico Tombari, Zeynep Akata. [[paper]](https://arxiv.org/abs/2102.01987) [[code]](https://github.com/ExplainableML/czsl)
 + **CompCos**: Open World Compositional Zero-Shot Learning. Massimiliano Mancini, Muhammad Ferjad Naeem, Yongqin Xian, Zeynep Akata [[paper]](https://arxiv.org/abs/2101.12609) [[code]](https://github.com/ExplainableML/czsl)
 + **GCM-CF**: Counterfactual Zero-Shot and Open-Set Visual Recognition. Zhongqi Yue, Tan Wang, Qianru Sun, Xian-Sheng Hua, Hanwang Zhang [[paper]](https://arxiv.org/abs/2103.00887) [[code]](https://github.com/yue-zhongqi/gcm-cf)
-+ Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning. Liu Bo, Qiulei Dong, Zhanyi Hu. [[paper]](https://arxiv.org/abs/2106.00264) [[no code - 210606]]()
++ **STHS**: Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning. Liu Bo, Qiulei Dong, Zhanyi Hu. [[no code - 210805]]()
 
 #### ICLR 2021
 + **CN-ZSL**: Class Normalization for Zero Shot Learning. Ivan Skorokhodov, Mohamed Elhoseiny. [[paper]](https://openreview.net/forum?id=7pgFL2Dkyyy)  [[Code]](https://github.com/universome/nm-zsl)
