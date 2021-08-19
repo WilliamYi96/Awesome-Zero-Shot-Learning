@@ -35,7 +35,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
    
 + **IPN**: Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang. Isometric Propagation Network for Generalized Zero-shot Learning. [[No code - 210805]]()
 + **AGZSL**: Yu-Ying Chou, Hsuan-Tien Lin, Tyng-Luh Liu. Adaptive and Generative Zero-Shot Learning. [[paper]](https://openreview.net/forum?id=ahAUv8TI2Mz) [[code]](https://github.com/anonmous529/AGZSL)
-+ Yunhao Ge, Sami Abu-El-Haija, Gan Xin, Laurent Itti. Zero-shot Synthesis with Group-Supervised Learning. [[No code - 210805]]()
+
 #### NeurIPS 2020
 + **Composer**: Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition. D.~Huynh and E.~Elhamifar. [[paper]](https://hbdat.github.io/pubs/neurips20_CompositionZSL_final.pdf) [[code]](https://github.com/hbdat/neurIPS20_CompositionZSL)
 + **APN**: Attribute Prototype Network for Zero-Shot Learning. Wenjia Xu, Yongqin Xian, Jiuniu Wang, Bernt Schiele, Zeynep Akata. [[empty github repo, no further consideration on this paper-210311]]()
