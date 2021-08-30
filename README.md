@@ -145,8 +145,37 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + **GAZSL**: Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. "A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts". [[arXiv]](https://arxiv.org/abs/1712.01381) [[Code]](https://github.com/EthanZhu90/ZSL_GAN)
 
       Note: This paper is one of the earlierst works working on textual-based CUBird and NABird. And the proposed two heads discriminator and the pipeline are widely accepted.
+      
++ **GCN**: Xiaolong Wang, Yufei Ye, Abhinav Gupta. "Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs". [[arXiv]](https://arxiv.org/pdf/1803.08035.pdf) [[Code]](https://github.com/JudyYe/zero-shot-gcn)
++ **PSR**: Yashas Annadani, Soma Biswas. "Preserving Semantic Relations for Zero-Shot Learning". [[arXiv]](https://arxiv.org/pdf/1803.03049.pdf) [[No code-210311]]() 
++ **TUE**: Jie Song, Chengchao Shen, Yezhou Yang, Yang Liu, Mingli Song. "Transductive Unbiased Embedding for Zero-Shot Learning". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Transductive_Unbiased_Embedding_CVPR_2018_paper.pdf) [[No code-210311]]() 
++ **SP-AEN**: Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang. "Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Zero-Shot_Visual_Recognition_CVPR_2018_paper.pdf) [[code]](https://github.com/zjuchenlong/sp-aen.cvpr18)
++ **ML-SKG**: Chung-Wei Lee, Wei Fang, Chih-Kuan Yeh, Yu-Chiang Frank Wang. "Multi-Label Zero-Shot Learning With Structured Knowledge Graphs". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf) [[No code-210311]]() 
++ **GZSL-SE**: Vinay Kumar Verma, Gundeep Arora, Ashish Mishra, Piyush Rai. "Generalized Zero-Shot Learning via Synthesized Examples". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf) [[No code-210311]]() 
++ **FGN**: Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. "Feature Generating Networks for Zero-Shot Learning". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Feature_Generating_Networks_CVPR_2018_paper.pdf) [[code]](http://datasets.d2.mpi-inf.mpg.de/xian/cvpr18xian.zip) 
++ **LDF**: Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang. "Discriminative Learning of Latent Features for Zero-Shot Recognition". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Discriminative_Learning_of_CVPR_2018_paper.pdf) [[No code-210311]]() 
++ **WSL**: Li Niu, Ashok Veeraraghavan, and Ashu Sabharwal. "Webly Supervised Learning Meets Zero-shot Learning: A Hybrid Approach for Fine-grained Classification". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Webly_Supervised_Learning_CVPR_2018_paper.pdf) [[No code-210311]]() 
 
+#### ECCV 2018
 
++ **SZSL**: Jie Song, Chengchao Shen, Jie Lei, An-Xiang Zeng, Kairi Ou, Dacheng Tao, Mingli Song. "Selective Zero-Shot Classification with Augmented Attributes". [[CVF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jie_Song_Selective_Zero-Shot_Classification_ECCV_2018_paper.pdf) [[No code-210311]]() 
++ **LCP-SA**: Huajie Jiang, Ruiping Wang, Shiguang Shan, Xilin Chen. "Learning Class Prototypes via Structure Alignment for Zero-Shot Recognition". [[CVF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Huajie_Jiang_Learning_Class_Prototypes_ECCV_2018_paper.pdf) [[No code-210311]]() 
++ **MC-ZSL**: Rafael Felix, Vijay Kumar B. G., Ian Reid, Gustavo Carneiro. "Multi-modal Cycle-consistent Generalized Zero-Shot Learning". [[CVF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/RAFAEL_FELIX_Multi-modal_Cycle-consistent_Generalized_ECCV_2018_paper.pdf) [[code]](https://github.com/rfelixmg/frwgan-eccv18)
+
+#### NeurIPS 2018
+
++ **DCN**: Shichen Liu, Mingsheng Long, Jianmin Wang, Michael I. Jordan."Generalized Zero-Shot Learning with Deep Calibration Network". [[paper]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf) [[code]](https://github.com/thuml/DCN)
++ **S2GA**: Yunlong Yu, Zhong Ji, Yanwei Fu, Jichang Guo, Yanwei Pang, Zhongfei (Mark) Zhang."Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning". [[paper]](http://papers.nips.cc/paper/7839-stacked-semantics-guided-attention-model-for-fine-grained-zero-shot-learning.pdf) [[No code-210311]]() 
++ **DIPL**: An Zhao, Mingyu Ding, Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen "Domain-Invariant Projection Learning for Zero-Shot Recognition". [[paper]](http://papers.nips.cc/paper/7380-domain-invariant-projection-learning-for-zero-shot-recognition.pdf) [[code]](https://github.com/dingmyu/DIPL)
+
+#### AAAI 2018
+
++ **GANZrl**: Bin Tong, Martin Klinkigt, Junwen Chen, Xiankun Cui, Quan Kong, Tomokazu Murakami, Yoshiyuki Kobayashi. "Adversarial Zero-shot Learning With Semantic Augmentation". [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16805/15965) [[No code-210311]]() 
++ **JDZsL**: Soheil Kolouri, Mohammad Rostami, Yuri Owechko, Kyungnam Kim. "Joint Dictionaries for Zero-Shot Learning". [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16404/16723) [[No code-210311]]() 
++ **VZSL**: Wenlin Wang, Yunchen Pu, Vinay Kumar Verma, Kai Fan, Yizhe Zhang, Changyou Chen, Piyush Rai, Lawrence Carin. "Zero-Shot Learning via Class-Conditioned Deep Generative Models". [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16087/16709) [[No code-210311]]() 
++ **AS**: Yuchen Guo, Guiguang Ding, Jungong Han, Sheng Tang. "Zero-Shot Learning With Attribute Selection". [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16350/16272) [[No code-210311]]() 
++ **DSSC**: Yan Li, Zhen Jia, Junge Zhang, Kaiqi Huang, Tieniu Tan."Deep Semantic Structural Constraints for Zero-Shot Learning". [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16309/16294) [[No code-210311]]() 
++ **ZsRDA**: Yang Long, Li Liu, Yuming Shen, Ling Shao. "Towards Affordable Semantic Searching: Zero-Shot Retrieval via Dominant Attributes". [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16626/16314) [[No code-210311]]() 
 
 ## Datasets
 
