@@ -2,35 +2,39 @@
 
 Selected papers I've read in the field of zero shot learning. Not a complete list of all accepted papers. I'll mainly focus on those papers with open-source implementations and most interesting to me. 
 
-**Note**: *This list may contain understanding bias and personal preference. All that papers without available code will not provide a link to it.*
+**Note**: *This list may contain understanding bias and personal preference. Paper link will not be provided for the one without an available code.*
 
 ## Table of Contents
 
 + [Papers](#Papers)
 + [Datasets](#Datasets)                                 
 
-### Papers
+### Papers      
+
+#### Survey
+
++ **GBU (PAMI-18)**: Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly". [[arXiv]](https://arxiv.org/abs/1707.00600) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)
++ **TIST19**: Wei Wang, Vincent W. Zheng, Han Yu, and Chunyan Miao. A Survey of Zero-Shot Learning: Settings, Methods, and Applications. [[paper]](https://dl.acm.org/doi/10.1145/3293318)
++ **arXiv20**: Farhad Pourpanah, Moloud Abdar, Yuxuan Luo, Xinlei Zhou, Ran Wang, Chee Peng Lim, and Xi-Zhao Wang. A Review of Generalized Zero-Shot Learning Methods. [[arxiv]](https://arxiv.org/abs/2011.08641)
 
 #### arXiv
 
-+ **GRaWD**: Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation. Mohamed Elhoseiny, Divyansh Jha, Kai Yi, Ivan Skorokhodov. [[paper]](https://arxiv.org/abs/2104.09757)
-+ **DVGR**: Dynamic VAEs with Generative Replay for Continual Zero-shot Learning. Subhankar Ghosh. [[paper]](https://arxiv.org/abs/2104.12468) [[code]](https://github.com/DVGR-CZSL/DVGR-CZSL)
++ **GRaWD**: Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation. Divyansh Jha*, Kai Yi*, Ivan Skorokhodov, Mohamed Elhoseiny. [[paper]](https://arxiv.org/abs/2104.09757) [[code]](https://github.com/Vision-CAIR/GRaWD)
 + **CIZSL++**: CIZSL++: Creativity Inspired Generative Zero-Shot Learning. Mohamed Elhoseiny, Kai Yi, Mohamed Elfeki. [[paper]](https://arxiv.org/pdf/2101.00173.pdf) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2)
+
+#### ICCV 2021
+
++ **FREE**: Feature Refinement for Generalized Zero-Shot Learning. Shiming Chen, Wenjie Wang, Beihao Xia, Qinmu Peng, Xinge You, Feng Zheng, Ling Shao. [[paper]](https://arxiv.org/abs/2107.13807) [[code]](https://github.com/shiming-chen/FREE)
++ **SDGZSL**: Semantic Disentangling Generalized Zero-Shot Learning. Zhi Chen, Ruihong Qiu, Sen Wang, Zi Huang, Jingjing Li, Zheng Zhang. [[paper]](https://arxiv.org/abs/2101.07978) [[No code - 210805]]()
 
 #### CVPR 2021
 
 + **GEM-ZSL**: Goal-Oriented Gaze Estimation for Zero-Shot Learning. Yang Liu, Lei Zhou, Xiao Bai, Yifei Huang, Lin Gu, Jun Zhou, Tatsuya Harada. [[paper]](https://arxiv.org/abs/2103.03433) [[code]](https://github.com/osierboy/GEM-ZSL)
 + **CE-GZSL**: Contrastive Embedding for Generalized Zero-Shot Learning. Zongyan Han, Zhenyong Fu, Shuo Chen, Jian Yang. [[paper]](https://arxiv.org/abs/2103.16173) [[code]](https://github.com/Hanzy1996/CE-GZSL)
 + **CGE**: Learning Graph Embeddings for Compositional Zero-Shot Learning. Muhammad Ferjad Naeem, Yongqin Xian, Federico Tombari, Zeynep Akata. [[paper]](https://arxiv.org/abs/2102.01987) [[code]](https://github.com/ExplainableML/czsl)
-~~~
-Utilizing the dependency between visual primitives and their compositions and using GCN to construct a compositional graph to learn the joint compatibility function.
-~~~
 + **CompCos**: Open World Compositional Zero-Shot Learning. Massimiliano Mancini, Muhammad Ferjad Naeem, Yongqin Xian, Zeynep Akata [[paper]](https://arxiv.org/abs/2101.12609) [[code]](https://github.com/ExplainableML/czsl)
-~~~
-Generalizing to open world setting and estimating the feasibility of each unseen composition in a shared visual-semantic space.
-~~~
 + **GCM-CF**: Counterfactual Zero-Shot and Open-Set Visual Recognition. Zhongqi Yue, Tan Wang, Qianru Sun, Xian-Sheng Hua, Hanwang Zhang [[paper]](https://arxiv.org/abs/2103.00887) [[code]](https://github.com/yue-zhongqi/gcm-cf)
-+ Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning. Liu Bo, Qiulei Dong, Zhanyi Hu. [[paper]](https://arxiv.org/abs/2106.00264) [[no code - 210606]]()
++ **STHS**: Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning. Liu Bo, Qiulei Dong, Zhanyi Hu. [[empty github repo - 210805]]()
 
 #### ICLR 2021
 
@@ -39,28 +43,23 @@ Generalizing to open world setting and estimating the feasibility of each unseen
 
       Note: In the paper, the authors investigated basic normalization strategies and proposed the novel class normalization. Besides, they introduced a more general continual zero-shot learning setting. But generally, there is a lot of space to improve on that.
 
-+ **IPN**: Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang. Isometric Propagation Network for Generalized Zero-shot Learning. [[paper]](https://openreview.net/pdf?id=-mWcQVLPSPy)  [[No code-210311]]()
++ **IPN**: Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang. Isometric Propagation Network for Generalized Zero-shot Learning. [[No code - 210805]]()
 
-+ Yu-Ying Chou, Hsuan-Tien Lin, Tyng-Luh Liu. Adaptive and Generative Zero-Shot Learning. [[paper]](https://openreview.net/forum?id=ahAUv8TI2Mz) [[No code-210311]]()
-
-+ Yunhao Ge, Sami Abu-El-Haija, Gan Xin, Laurent Itti. Zero-shot Synthesis with Group-Supervised Learning. [[paper]](https://openreview.net/forum?id=8wqCDnBmnrT)  [[No code-210311]]()
++ **AGZSL**: Yu-Ying Chou, Hsuan-Tien Lin, Tyng-Luh Liu. Adaptive and Generative Zero-Shot Learning. [[paper]](https://openreview.net/forum?id=ahAUv8TI2Mz) [[code]](https://github.com/anonmous529/AGZSL)
 
 #### NeurIPS 2020
 
 + **Composer**: Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition. D.~Huynh and E.~Elhamifar. [[paper]](https://hbdat.github.io/pubs/neurips20_CompositionZSL_final.pdf) [[code]](https://github.com/hbdat/neurIPS20_CompositionZSL)
 + **APN**: Attribute Prototype Network for Zero-Shot Learning. Wenjia Xu, Yongqin Xian, Jiuniu Wang, Bernt Schiele, Zeynep Akata. [[empty github repo, no further consideration on this paper-210311]]()
-+ Yuval Atzmon, Felix Kreuk, Uri Shalit, Gal Chechik. A causal view of compositional zero-shot recognition. [[arXiv]](https://arxiv.org/pdf/2006.14610.pdf)  [[Code]](https://github.com/nv-research-israel/causal_comp) 
-~~~
-Using a causal perspective formulation to learn the disentangled representations and causal transformation among the visual primitives in a causal graph.
-~~~
+
 #### ECCV 2020
 
 + **f-VAEGAN**: Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification. Sanath Narayan*, Akshita Gupta*, Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. [[arXiv]](https://arxiv.org/abs/2003.07833) [[Code]](https://github.com/akshitac8/tfvaegan)
 
 + **LsrGAN**: Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning. Maunil R Vyas, Hemanth Venkateswara, Sethuraman Panchanathan. [[arXiv]](https://arxiv.org/abs/2007.09549) [[Code]](https://github.com/Maunil/LsrGAN)
-            
+              
 
-      Note: This is a paper based on GAZSL and the loss design is interesting and easy to follow. However, this is for transductive zero shot learning, which uses image features of unseen classes at training step.
+      Note: This is a paper based on GAZSL and the loss design is interesting and easy to follow. However, this is for transductive zero shot learning, which uses the semantic features of unseen classes at training step.
 
 + **OOD**: A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning. Xingyu Chen, Xuguang Lan, Fuchun Sun, Nanning Zheng. [[paper]](https://arxiv.org/abs/2008.04872) [[code]](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning)    
 
@@ -96,15 +95,7 @@ Using a causal perspective formulation to learn the disentangled representations
 
 + Pengkai Zhu, Hanxiao Wang, Venkatesh Sligrama. Don't Even Look Once: Synthesizing Features for Zero-Shot Detection. [[CVF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Dont_Even_Look_Once_Synthesizing_Features_for_Zero-Shot_Detection_CVPR_2020_paper.pdf)
 
-+ **SymNet**: Yong-Lu Li, Yue Xu, Xiaohan Mao, Cewu Lu. Symmetry and Group in Attribute-Object Compositions. [[CVF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Symmetry_and_Group_in_Attribute-Object_Compositions_CVPR_2020_paper.pdf) [[code]](https://github.com/DirtyHarryLYL/SymNet)
-~~~
-Leveraging group theory to learn symmetric object representation with attribute transformations.
-~~~
 
-+ **HiDC**: Muli Yang, Cheng Deng, Junchi Yan, Xianglong Liu, Dacheng Tao. Learning Unseen Concepts via Hierarchical Decomposition and Composition. [[CVF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_Unseen_Concepts_via_Hierarchical_Decomposition_and_Composition_CVPR_2020_paper.pdf) [[No code-210311]]() 
-~~~
-A hierarchical end-to-end decomposition and composition manner to model intricate contextuality between compositional primitives.
-~~~
 #### ICCV 2019
 
 + **CIZSL**: Mohamed Elhoseiny, Mohamed Elfeki. Creativity Inspired Zero-Shot Learning. [[CVF]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.pdf) [[arXiv]](https://arxiv.org/abs/1904.01109) [[Code]](https://github.com/mhelhoseiny/CIZSL)
@@ -117,20 +108,14 @@ A hierarchical end-to-end decomposition and composition manner to model intricat
 
 + **cvcZSL**: Kai Li, Martin Renqiang Min, Yun Fu. Rethinking Zero-Shot Learning: A Conditional Visual Classification Perspective. [[CVF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Rethinking_Zero-Shot_Learning_A_Conditional_Visual_Classification_Perspective_ICCV_2019_paper.pdf) [[Code]](https://github.com/kailigo/cvcZSL) 
 
-+ **TMN**: Senthil Purushwalkam, Maximilian Nickel, Abhinav Gupta, Marc'Aurelio Ranzato. Task-Driven Modular Networks for Zero-Shot Compositional Learning. [[CVF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Purushwalkam_Task-Driven_Modular_Networks_for_Zero-Shot_Compositional_Learning_ICCV_2019_paper.pdf) [[Code]](https://github.com/facebookresearch/taskmodularnets)
-~~~
-Using a modular network to extract image feature and a gating network to capture compositional embedding.
-~~~
++ Senthil Purushwalkam, Maximilian Nickel, Abhinav Gupta, Marc'Aurelio Ranzato. Task-Driven Modular Networks for Zero-Shot Compositional Learning. [[CVF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Purushwalkam_Task-Driven_Modular_Networks_for_Zero-Shot_Compositional_Learning_ICCV_2019_paper.pdf) [[Code]](https://github.com/facebookresearch/taskmodularnets)
+
 + **TCN**: Huajie Jiang, Ruiping Wang, Shiguang Shan, Xilin Chen. Transferable Contrastive Network for Generalized Zero-Shot Learning. [[CVF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Transferable_Contrastive_Network_for_Generalized_Zero-Shot_Learning_ICCV_2019_paper.pdf) [[No code-210311]]() 
 
 + Yizhe Zhu, Jianwen Xie, Bingchen Liu, Ahmed Elgammal. Learning Feature-to-Feature Translator by Alternating Back-Propagation for Generative Zero-Shot Learning. [[CVF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Feature-to-Feature_Translator_by_Alternating_Back-Propagation_for_Generative_Zero-Shot_Learning_ICCV_2019_paper.pdf) [[Code]](https://github.com/EthanZhu90/ZSL_ABP)
 
 + Yannick Le Cacheux, Herve Le Borgne, Michel Crucianu. Modeling Inter and Intra-Class Relations in the Triplet Loss for Zero-Shot Learning. [[CVF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Cacheux_Modeling_Inter_and_Intra-Class_Relations_in_the_Triplet_Loss_for_ICCV_2019_paper.pdf) [[No code-210311]]() 
 
-+ **AdvFineGrained**: Kun Wei, Muli Yang, Hao Wang, Cheng Deng, Xianglong Liu. Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition. [[CVF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wei_Adversarial_Fine-Grained_Composition_Learning_for_Unseen_Attribute-Object_Recognition_ICCV_2019_paper.pdf) [[No code-210311]]() 
-~~~
-Designing a quintuplet loss to regularize images and compositions in a common space and define semi-negative samples
-~~~
 #### CVPR 2019
 
 + **DGP**: Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, and Eric P. Xing. Rethinking Knowledge Graph Propagation for Zero-Shot Learning. [[arXiv]](https://arxiv.org/abs/1805.11724) [[Code]](https://github.com/cyvius96/DGP)
@@ -147,10 +132,7 @@ Designing a quintuplet loss to regularize images and compositions in a common sp
 + **PQZSL**: Jin Li, Xuguang Lan, Yang Liu, Le Wang, Nanning Zheng. Compressing Unknown Classes with Product Quantizer for Efficient Zero-Shot Classification. [[CVF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Compressing_Unknown_Images_With_Product_Quantizer_for_Efficient_Zero-Shot_Classification_CVPR_2019_paper.pdf) [[No code-210311]]() 
 + **LisGAN**: Jingjing Li, Mengmeng Jin, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. Leveraging the Invariant Side of Generative Zero-Shot Learning.  [[CVF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Leveraging_the_Invariant_Side_of_Generative_Zero-Shot_Learning_CVPR_2019_paper.pdf) [[Code]](https://github.com/lijin118/LisGAN)
 + **gmnZSL**: Mert Bulent Sariyildiz, Ramazan Gokberk Cinbis. Gradient Matching Generative Networks for Zero-Shot Learning.  [[CVF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) [[Code]](https://github.com/mbsariyildiz/gmn-zsl) 
-+ **TAFE-Net**: Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez. TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning. [[CVF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_TAFE-Net_Task-Aware_Feature_Embeddings_for_Low_Shot_Learning_CVPR_2019_paper.pdf) [[Code]](https://github.com/ucbdrive/tafe-net)
-~~~
-Using composition embedding as meta learner task embedding and learn classifier for individual composition.
-~~~ 
+
 #### NeurIPS 2019
 
 - Jian Ni, Shanghang Zhang, Haiyong Xie. Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning.  [[CVF]](https://proceedings.neurips.cc/paper/2019/file/c46482dd5d39742f0bfd417b492d0e8e-Paper.pdf) [[No code-210311]]() 
@@ -158,23 +140,13 @@ Using composition embedding as meta learner task embedding and learn classifier 
 - **SGAL**: Hyeonwoo Yu, Beomhee Lee. Zero-shot Learning via Simultaneous Generating and Learning. [[CVF]](https://proceedings.neurips.cc/paper/2019/file/19ca14e7ea6328a42e0eb13d585e4c22-Paper.pdf) [[Code]](https://github.com/bogus2000/zero-shot_SGAL) 
 - **SGMA**: Yizhe Zhu, Jianwen Xie, Zhiqiang Tang, Xi Peng, Ahmed Elgammal. Semantic-Guided Multi-Attention Localization for Zero-Shot Learning.  [[arXiv]](https://arxiv.org/pdf/1903.00502.pdf) [[No code-210311]]() 
 
-### AAAI 2019
-+ Zhixiong Nan, Yang Liu, Nanning Zheng, Song-Chun Zhu. Recognizing Unseen Attribute-Object Pair with Generative Model. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4907) [[no code - 210606]]()
-~~~
-Using a encoder-decoder generative model to extract visual features and word embedding of state and object labels and project to a latent space.
-~~~
-
 #### CVPR 2018
 
 + **GAZSL**: Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. "A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts". [[arXiv]](https://arxiv.org/abs/1712.01381) [[Code]](https://github.com/EthanZhu90/ZSL_GAN)
 
       Note: This paper is one of the earlierst works working on textual-based CUBird and NABird. And the proposed two heads discriminator and the pipeline are widely accepted.
 
-#### PAMI 2018
 
-+ **GBU**: Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly". [[arXiv]](https://arxiv.org/abs/1707.00600) [[Project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)
-
-      Note: This paper maybe one of the most influential papers in zero-shot learning.
 
 ## Datasets
 
