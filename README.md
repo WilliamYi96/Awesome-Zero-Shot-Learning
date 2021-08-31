@@ -54,7 +54,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 
 #### ECCV 2020
 
-+ **f-VAEGAN**: Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification. Sanath Narayan*, Akshita Gupta*, Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. [[arXiv]](https://arxiv.org/abs/2003.07833) [[Code]](https://github.com/akshitac8/tfvaegan)
++ **TF-VAEGAN**: Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification. Sanath Narayan*, Akshita Gupta*, Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. [[arXiv]](https://arxiv.org/abs/2003.07833) [[Code]](https://github.com/akshitac8/tfvaegan)
 
 + **LsrGAN**: Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning. Maunil R Vyas, Hemanth Venkateswara, Sethuraman Panchanathan. [[arXiv]](https://arxiv.org/abs/2007.09549) [[Code]](https://github.com/Maunil/LsrGAN)
               
@@ -155,6 +155,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + **f-CLSWGAN**: Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. "Feature Generating Networks for Zero-Shot Learning". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Feature_Generating_Networks_CVPR_2018_paper.pdf) [[code]](http://datasets.d2.mpi-inf.mpg.de/xian/cvpr18xian.zip) 
 + **LDF**: Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang. "Discriminative Learning of Latent Features for Zero-Shot Recognition". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Discriminative_Learning_of_CVPR_2018_paper.pdf) [[No code-210311]]() 
 + **WSL**: Li Niu, Ashok Veeraraghavan, and Ashu Sabharwal. "Webly Supervised Learning Meets Zero-shot Learning: A Hybrid Approach for Fine-grained Classification". [[CVF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Webly_Supervised_Learning_CVPR_2018_paper.pdf) [[No code-210311]]() 
++ **Kernel**: Hongguang Zhang, Piotr Koniusz. "Zero-Shot Kernel Learning". [[CVF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Zero-Shot_Kernel_Learning_CVPR_2018_paper.pdf) [[code]](https://github.com/HongguangZhang/ZSKL-cvpr18-master) 
 
 #### ECCV 2018
 
