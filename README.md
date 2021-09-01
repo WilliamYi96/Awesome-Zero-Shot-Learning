@@ -26,6 +26,7 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 
 + **FREE**: Feature Refinement for Generalized Zero-Shot Learning. Shiming Chen, Wenjie Wang, Beihao Xia, Qinmu Peng, Xinge You, Feng Zheng, Ling Shao. [[paper]](https://arxiv.org/abs/2107.13807) [[code]](https://github.com/shiming-chen/FREE)
 + **SDGZSL**: Semantic Disentangling Generalized Zero-Shot Learning. Zhi Chen, Ruihong Qiu, Sen Wang, Zi Huang, Jingjing Li, Zheng Zhang. [[paper]](https://arxiv.org/abs/2101.07978) [[No code - 210805]]()
++ Field Guide-inspired Zero-Shot Learning. Utkarsh Mall, Bharath Hariharan, Kavita Bala. [[paper]](https://arxiv.org/abs/2108.10967) [[No code - 210901]]()
 
 #### CVPR 2021
 
