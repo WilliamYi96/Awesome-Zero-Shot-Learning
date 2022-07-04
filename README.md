@@ -23,7 +23,9 @@ Selected papers I've read in the field of zero shot learning. Not a complete lis
 + **CIZSL++**: CIZSL++: Creativity Inspired Generative Zero-Shot Learning. Mohamed Elhoseiny, Kai Yi, Mohamed Elfeki. [[paper]](https://arxiv.org/pdf/2101.00173.pdf) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2)
 
 #### ECCV 2022
-+ **HGR-Net**: Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification. Kai Yi, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny. [[paper]](https://arxiv.org/abs/2203.01386)
++ **HGR-Net**: Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification. Kai Yi, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny. [[paper]](https://arxiv.org/abs/2203.01386) [[code]](https://github.com/WilliamYi96/HGR-Net)
+
+#### CVPR 2022
 
 #### NeurIPS 2021 
 + **HSVA**: Hierarchical Semantic-Visual Adaptation for Zero-Shot Learning. Shiming Chen, Guo-Sen Xie, Qinmu Peng, Yang Liu, Baigui Sun, Hao Li, Xinge You, Ling Shao. [[paper]](https://arxiv.org/abs/2109.15163) [[code (not ready)]](https://arxiv.org/abs/2109.15163)
