@@ -29,6 +29,7 @@ This repo is NOT a complete list of all accepted papers. I'll mainly focus on th
 
 #### CVPR 2022
 
+
 #### NeurIPS 2021 
 + **HSVA**: Hierarchical Semantic-Visual Adaptation for Zero-Shot Learning. Shiming Chen, Guo-Sen Xie, Qinmu Peng, Yang Liu, Baigui Sun, Hao Li, Xinge You, Ling Shao. [[paper]](https://arxiv.org/abs/2109.15163) [[code (not ready)]](https://arxiv.org/abs/2109.15163)
 
